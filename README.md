@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-📚 Technology Stack 📚
-https://img.shields.io/badge/-C-red
-https://img.shields.io/badge/-C++-green
-https://img.shields.io/badge/-PYHTON-blue
+### 📚 Technology Stack 📚
 
-#### my blog : [velog.io/@bangsy](https://velog.io/@bangsy)
+![Tech Blog Badge](https://img.shields.io/badge/-C-red)
+![Tech Blog Badge](https://img.shields.io/badge/-C++-green)
+![Tech Blog Badge](https://img.shields.io/badge/-PYHTON-blue)
+
+
+#### ![My Blog](https://img.shields.io/badge/-C-redhttps://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bangsy)
 
 ![bsy3764 github stats](https://github-readme-stats.vercel.app/api?username=bsy3764&show_icons=true&theme=merko)
 
