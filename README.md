@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/#A8B9CC-C-red
+📚 Technology Stack 📚
+https://img.shields.io/badge/-C-red
+https://img.shields.io/badge/-C++-green
+https://img.shields.io/badge/-PYHTON-blue
 
 #### my blog : [velog.io/@bangsy](https://velog.io/@bangsy)
 
