@@ -7,7 +7,7 @@
 ![Tech Blog Badge](https://img.shields.io/badge/-PYHTON-blue)
 
 
-#### ![My Blog](https://img.shields.io/badge/-C-redhttps://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bangsy)
+#### ![My Blog](https://img.shields.io/badge/Velog%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bangsy)
 
 ![bsy3764 github stats](https://github-readme-stats.vercel.app/api?username=bsy3764&show_icons=true&theme=merko)
 
