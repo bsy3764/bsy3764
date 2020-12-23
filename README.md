@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+안녕하세요! bsy3764 입니다.
+현재 개발자를 목표로 공부 중 입니다.
+잘 부탁드립니다.
+
 ### 📚 Technology Stack 📚
 
 ![Tech Blog Badge](https://img.shields.io/badge/-C-red)
