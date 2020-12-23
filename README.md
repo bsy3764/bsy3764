@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm study C, Python, OpenCV, ML, DL etc
+
+https://img.shields.io/badge/#A8B9CC-C-red
+
 #### my blog : [velog.io/@bangsy](https://velog.io/@bangsy)
 
 ![bsy3764 github stats](https://github-readme-stats.vercel.app/api?username=bsy3764&show_icons=true&theme=merko)
