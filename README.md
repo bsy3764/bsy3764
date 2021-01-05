@@ -7,9 +7,7 @@
 ### 📚 Technology Stack 📚
 
 ![Tech Blog Badge](https://img.shields.io/badge/-C-red)
-![Tech Blog Badge](https://img.shields.io/badge/-C++-green)
 ![Tech Blog Badge](https://img.shields.io/badge/-PYHTON-blue)
-![Tech Blog Badge](https://img.shields.io/badge/-JAVA-blue)
 
 
 #### [![My Blog](https://img.shields.io/badge/Velog%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bangsy)](https://velog.io/@bangsy)
