@@ -1,17 +1,15 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-안녕하세요! bsy3764 입니다.
+I'm Bang.
 
-- C, Python
-- currently learning AI, ML and IoT, Flask, Django
-
-잘 부탁드립니다.
+- C, Python, JAVA
+- currently learning AI, ML, IoT, Flask, Django, Spring
 
 ### 📚 Technology Stack 📚
 
 ![Tech Blog Badge](https://img.shields.io/badge/-C-red)
 ![Tech Blog Badge](https://img.shields.io/badge/-PYHTON-blue)
-
+![Tech Blog Badge](https://img.shields.io/badge/-JAVA-orange)
 
 #### [![My Blog](https://img.shields.io/badge/Velog%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@bangsy)](https://velog.io/@bangsy)
 
