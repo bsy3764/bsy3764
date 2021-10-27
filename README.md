@@ -3,7 +3,7 @@
 I'm Bang.
 
 - C, Python, JAVA
-- currently learning AI, ML, IoT, Flask, Django, Spring
+- currently learning SpringBoot, React
 
 ### 📚 Technology Stack 📚
 
